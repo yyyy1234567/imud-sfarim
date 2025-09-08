@@ -1,4 +1,3 @@
-# -imud-sfarim
 <!DOCTYPE html>
 <html lang="he" dir="rtl">
 <head>
@@ -1305,4 +1304,3 @@
     </script>
 </body>
 </html>
-מערכת עימוד ספרים מקצועית בעברית
